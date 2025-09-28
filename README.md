@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=6000&pause=1500&color=F70404&background=F6FAFF00&width=450&lines=I'm+a+Backend+Developer.;Falling,+learning,+and+moving+forward.;Still+standing,+still+coding.)](https://git.io/typing-svg)
-
 ## 🩸 Wounds Stats
 
 <a href="https://github.com/anuraghazra/convoychat">
