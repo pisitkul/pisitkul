@@ -11,7 +11,7 @@ Backend-focused, with React experience when frontend support is needed.
 - **[sequential-generator](https://github.com/pisitkul/sequential-generator)** — Sequential code generator (prefix + date), published on npm as `v1.1.0`. Used in production inside a private Nest monorepo.
   `TypeScript · Node.js · dayjs · Jest`
 
-### Stack I ship with (public proof)
+### Public proof
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
