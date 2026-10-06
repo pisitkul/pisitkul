@@ -23,14 +23,13 @@ Backend-focused, with React experience when frontend support is needed.
 ### Also in private work
 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 ![IIS](https://img.shields.io/badge/-IIS-0078D7?style=flat-square&logo=windows&logoColor=white)
 
-_Production runs on PM2 / IIS with SQL Server via Prisma; Docker is for local development._
+_Production runs on PM2 / IIS with SQL Server via Prisma._
 
 ### Now
 
