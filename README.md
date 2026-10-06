@@ -2,11 +2,11 @@
 
 **Backend / Automation — turn messy ops files into clean data.**
 
-Backend-focused. Can cover frontend with React (solid on v18, catching up on v19) when needed.
+Backend-focused, with React experience when frontend support is needed.
 
 ### What I've shipped
 
-- **[accel-csv](https://github.com/pisitkul/accel-csv)** — Convert stock-transfer PDFs (ใบโอนสินค้า) to a SKU x Serial CSV matrix for automation. Desktop GUI included.
+- **[accel-csv](https://github.com/pisitkul/accel-csv)** — Convert stock-transfer PDFs (ใบโอนสินค้า) into structured SKU × Serial CSV data, removing manual transcription from the downstream workflow. Desktop GUI included.
   `Python · pdfplumber · tkinter · pytest · GitHub Actions`
 - **[sequential-generator](https://github.com/pisitkul/sequential-generator)** — Sequential code generator (prefix + date), published on npm as `v1.1.0`. Used in production inside a private Nest monorepo.
   `TypeScript · Node.js · dayjs · Jest`
@@ -32,4 +32,6 @@ Backend-focused. Can cover frontend with React (solid on v18, catching up on v19
 
 ### Now
 
-- Hardening backend examples in private before making them public again.
+- Turning production experience into public, reproducible backend examples.
+- Building small automation tools around messy operational data.
+- Improving testing, documentation, and deployment workflows.
